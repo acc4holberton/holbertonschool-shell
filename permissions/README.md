@@ -7,3 +7,4 @@ Add 0-iam_betty script to change user to betty
 - 6-multiple_permissions: adds execute permission to owner and group, read permission to others for hello
 - 7-everybody: adds execution permission to owner, group, and others for hello
 - 8-James_Bond: sets permissions of hello to none for owner/group and all for others
+- 9-John_Doe: sets permissions of hello to rwx for owner, r-x for group, and -wx for others
