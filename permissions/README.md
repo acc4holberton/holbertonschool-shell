@@ -11,3 +11,4 @@ Add 0-iam_betty script to change user to betty
 - 10-mirror_permissions: sets the mode of hello to be the same as olleh
 - 11-directories_permissions: adds execute permission to all subdirectories for owner, group, and others
 - 12-directory_permissions: creates my_dir with permissions 751 in the working directory
+- 12-directory_permissions: creates my_dir with permissions 751 in the working directory
