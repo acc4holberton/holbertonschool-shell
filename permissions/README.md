@@ -12,3 +12,4 @@ Add 0-iam_betty script to change user to betty
 - 11-directories_permissions: adds execute permission to all subdirectories for owner, group, and others
 - 12-directory_permissions: creates my_dir with permissions 751 in the working directory
 - 13-change_group: changes the group owner of hello to school
+- 14-change_owner_and_group: changes owner to vincent and group to staff for all files and directories in the working directory
