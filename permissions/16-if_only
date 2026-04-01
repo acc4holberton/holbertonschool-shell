@@ -1,2 +1,2 @@
 #!/bin/bash
-find hello -user guillaume -exec chown vincent {} +
+chown -c vincent $(stat -c %U hello | grep -w guillaume | xargs -I {} echo hello)
