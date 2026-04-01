@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -c vincent $(stat -c %U hello | grep -w guillaume | xargs -I {} echo hello)
+find hello -maxdepth 0 -user guillaume -exec chown vincent {} +
