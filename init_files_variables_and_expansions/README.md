@@ -12,3 +12,4 @@
 - 11-binary_to_decimal: converts the binary number in BINARY to decimal
 - 12-combinations: prints all 2-letter combinations except 'oo'
 - 13-print_float: prints the value of NUM with two decimal places
+- 14-decimal_to_hexadecimal: converts DECIMAL to hexadecimal
