@@ -10,3 +10,4 @@
 - 9-divide_and_rule: prints the result of POWER divided by DIVIDE
 - 10-love_exponent_breath: displays BREATH to the power of LOVE
 - 11-binary_to_decimal: converts the binary number in BINARY to decimal
+- 12-combinations: prints all 2-letter combinations except 'oo'
