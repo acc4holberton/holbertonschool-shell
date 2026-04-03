@@ -9,3 +9,4 @@
 - 8-true_knowledge: prints the result of 128 + TRUEKNOWLEDGE
 - 9-divide_and_rule: prints the result of POWER divided by DIVIDE
 - 10-love_exponent_breath: displays BREATH to the power of LOVE
+- 11-binary_to_decimal: converts the binary number in BINARY to decimal
