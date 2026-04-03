@@ -1,1 +1,2 @@
 - 0-alias: creates an alias 'ls' that runs 'rm -f *'
+- 1-hello_you: prints 'hello' followed by the current Linux user
